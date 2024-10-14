@@ -1,0 +1,20 @@
+.nav-list {
+  list-style-type: disc;
+  /* круглые маркеры */
+  padding-left: 20px;
+}
+
+.nav-list li {
+  margin-bottom: 10px;
+  /* отступ между элементами списка */
+}
+
+.nav-list a {
+  color: blue;
+  text-decoration: none;
+}
+
+.nav-list a:hover {
+  text-decoration: underline;
+  /* подчеркивание при наведении */
+}
